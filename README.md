@@ -1,4 +1,4 @@
-**Ansys Libraries for Würth Elektronik Products**
+**Ansys Model for Würth Elektronik Products**
 =
 ## Introduction
 Ansys was founded in 1970 to automate finite element analysis (FEA), which was previously performed by hand. They have developed a software suite which today includes mechanical, structural, CAD, fluid, material and electromagnetic simulations.  
