@@ -1,4 +1,4 @@
-**Ansys Model for Würth Elektronik Products**
+**Ansys Libraries for Würth Elektronik Products**
 =
 ## Introduction
 Ansys was founded in 1970 to automate finite element analysis (FEA), which was previously performed by hand. They have developed a software suite which today includes mechanical, structural, CAD, fluid, material and electromagnetic simulations.  
@@ -14,7 +14,7 @@ For how to use models in GitHub repository, you can refer to the help document i
 
 **Please read Disclaimer carefully before downloading and using Würth Elektronik Models.**
 
-**Note: Ansys models and xml file in GitHub repository are always the latest.**
+**Note: Ansys libraries and xml file in GitHub repository are always the latest.**
 ## Component Classification
 * WE - Automotive
 
