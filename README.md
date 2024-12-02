@@ -15,6 +15,7 @@ For how to use models in GitHub repository, you can refer to the help document i
 **Please read Disclaimer carefully before downloading and using Würth Elektronik Models.**
 
 **Note1: Ansys library and xml file in GitHub repository are always the latest.**
+
 **Note2: Ansys has a big update in 2023R1 and some geometry core feature changes so models are not compatible before and after 2023R1. That's why we have two folders of different version for some series, but mostly we only have 2023R1 available. If you need higher or lower version model, please send email to libraries@we-online.com or Melon.Huang@we-online.com.**
 ## Component Classification
 * WE - Automotive
