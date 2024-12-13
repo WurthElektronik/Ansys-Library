@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProxyComponents name="Wurth Elektronik" url="http://www.we-online.com">
+	<About>As one of Europe's largest manufacturer of passive components, Wurth Elektronik eiSos sets itself apart from other component manufacturers in one single sentence: more than you expect!</About>    <Folder name="RF Antennas">
+        <Folder name="WE-MCA">
+            <ProxyComponent name="7488910043" url="https://www.we-online.com/catalog/en/WE-MCA?sq=7488910043#7488910043?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="7488910092" url="https://www.we-online.com/catalog/en/WE-MCA?sq=7488910092#7488910092?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="74889102450" url="https://www.we-online.com/catalog/en/WE-MCA?sq=74889102450#74889102450?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="7488910915" url="https://www.we-online.com/catalog/en/WE-MCA?sq=7488910915#7488910915?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="7488912455" url="https://www.we-online.com/catalog/en/WE-MCA?sq=7488912455#7488912455?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="7488915724" url="https://www.we-online.com/catalog/en/WE-MCA?sq=7488915724#7488915724?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="7488918022" url="https://www.we-online.com/catalog/en/WE-MCA?sq=7488918022#7488918022?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="7488920157" url="https://www.we-online.com/catalog/en/WE-MCA?sq=7488920157#7488920157?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="7488920245" url="https://www.we-online.com/catalog/en/WE-MCA?sq=7488920245#7488920245?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="7488922455" url="https://www.we-online.com/catalog/en/WE-MCA?sq=7488922455#7488922455?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="74889302450" url="https://www.we-online.com/catalog/en/WE-MCA?sq=74889302450#74889302450?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="74889402450" url="https://www.we-online.com/catalog/en/WE-MCA?sq=74889402450#74889402450?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="74889502450" url="https://www.we-online.com/catalog/en/WE-MCA?sq=74889502450#74889502450?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="7488960245" url="https://www.we-online.com/catalog/en/WE-MCA?sq=7488960245#7488960245?ah">
+                <About>Multilayer Chip Antenna created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+        </Folder>
+    </Folder>
+    <Folder name="RF Inductors">
+        <Folder name="WE-ACHC">
+            <Folder name="Size 1010">
+                <ProxyComponent name="7449150023" url="https://www.we-online.com/catalog/en/WE-ACHC?sq=7449150023#7449150023?ah">
+                    <About>High Current Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="7449150046" url="https://www.we-online.com/catalog/en/WE-ACHC?sq=7449150046#7449150046?ah">
+                    <About>High Current Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="7449150079" url="https://www.we-online.com/catalog/en/WE-ACHC?sq=7449150079#7449150079?ah">
+                    <About>High Current Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="7449150111" url="https://www.we-online.com/catalog/en/WE-ACHC?sq=7449150111#7449150111?ah">
+                    <About>High Current Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="7449150146" url="https://www.we-online.com/catalog/en/WE-ACHC?sq=7449150146#7449150146?ah">
+                    <About>High Current Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+            </Folder>
+            <Folder name="Size 1212">
+                <ProxyComponent name="7449152022" url="https://www.we-online.com/catalog/en/WE-ACHC?sq=7449152022#7449152022?ah">
+                    <About>High Current Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="7449152042" url="https://www.we-online.com/catalog/en/WE-ACHC?sq=7449152042#7449152042?ah">
+                    <About>High Current Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="7449152066" url="https://www.we-online.com/catalog/en/WE-ACHC?sq=7449152066#7449152066?ah">
+                    <About>High Current Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="7449152090" url="https://www.we-online.com/catalog/en/WE-ACHC?sq=7449152090#7449152090?ah">
+                    <About>High Current Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="7449152111" url="https://www.we-online.com/catalog/en/WE-ACHC?sq=7449152111#7449152111?ah">
+                    <About>High Current Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+            </Folder>
+        </Folder>
+        <Folder name="WE-CAIR">
+            <Folder name="Size 1322">
+                <ProxyComponent name="744910016" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744910016#744910016?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744910025" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744910025#744910025?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744910038" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744910038#744910038?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744910054" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744910054#744910054?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+            </Folder>
+            <Folder name="Size 1340">
+                <ProxyComponent name="744911056" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744911056#744911056?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744911071" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744911071#744911071?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744911088" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744911088#744911088?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744911098" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744911098#744911098?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744911112" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744911112#744911112?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+            </Folder>
+            <Folder name="Size 3136">
+                <ProxyComponent name="744913025" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744913025#744913025?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744913050" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744913050#744913050?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744913080" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744913080#744913080?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744913112" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744913112#744913112?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744913118" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744913118#744913118?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+            </Folder>
+            <Folder name="Size 3168">
+                <ProxyComponent name="744914117" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744914117#744914117?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744914122" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744914122#744914122?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744914128" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744914128#744914128?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744914135" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744914135#744914135?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744914143" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744914143#744914143?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+            </Folder>
+            <Folder name="Size 4248">
+                <ProxyComponent name="744912122" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744912122#744912122?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744912127" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744912127#744912127?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744912133" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744912133#744912133?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744912139" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744912139#744912139?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744912147" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744912147#744912147?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744912156" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744912156#744912156?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744912168" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744912168#744912168?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744912182" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744912182#744912182?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744912210" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744912210#744912210?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744912212" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744912212#744912212?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+            </Folder>
+            <Folder name="Size 5910">
+                <ProxyComponent name="744918190" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918190#744918190?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744918211" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918211#744918211?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744918213" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918213#744918213?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744918217" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918217#744918217?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744918220" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918220#744918220?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744918222" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918222#744918222?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744918224" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918224#744918224?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744918230" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918230#744918230?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744918238" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918238#744918238?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744918242" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918242#744918242?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744918249" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918249#744918249?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+                <ProxyComponent name="744918254" url="https://www.we-online.com/catalog/en/AIR_COIL_POWER_INDUCTOR_WE-CAIR?sq=744918254#744918254?ah">
+                    <About>Air Coil created by HFSS Terminal version 2021R2</About>
+                </ProxyComponent>
+            </Folder>
+        </Folder>
+    </Folder>
+    <Folder name="Filter Chokes">
+        <Folder name="WE-SD">
+            <ProxyComponent name="744710203" url="https://www.we-online.com/catalog/en/WE-SD?sq=744710203#744710203?ah">
+                <About>Rod Core Choke created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+        </Folder>
+    </Folder>
+    <Folder name="EMC Shielding">
+        <Folder name="WE-SHC Seamless">
+            <ProxyComponent name="3671156" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671156#3671156?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671168" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671168#3671168?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671183" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671183#3671183?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671190" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671190#3671190?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671191" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671191#3671191?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671193" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671193#3671193?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671206" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671206#3671206?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671209" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671209#3671209?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671210" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671210#3671210?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671213" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671213#3671213?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671220" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671220#3671220?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671223" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671223#3671223?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671226" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671226#3671226?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671230" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671230#3671230?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671233" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671233#3671233?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671250" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671250#3671250?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671256" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671256#3671256?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671257" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671257#3671257?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671259" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671259#3671259?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671260" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671260#3671260?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671263" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671263#3671263?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671268" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671268#3671268?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671270" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671270#3671270?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671288" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671288#3671288?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671290" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671290#3671290?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671293" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671293#3671293?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671299" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671299#3671299?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671302" url="https://www.we-online.com/catalog/en/SHIELDING_WE_SHC_SEAMLESS?sq=3671302#3671302?ah">
+                <About>Seamless Shielding Cabinet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+        </Folder>
+        <Folder name="WE-SHC">
+            <ProxyComponent name="3600213120S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3600213120S#3600213120S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36003160S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36003160S#36003160S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36003200" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36003200#36003200?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36003200S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36003200S#36003200S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36003250" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36003250#36003250?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36003250S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36003250S#36003250S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36003300" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36003300#36003300?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36003300S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36003300S#36003300S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36003500" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36003500#36003500?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36003500S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36003500S#36003500S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36003600" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36003600#36003600?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36003600S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36003600S#36003600S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36005260S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36005260S#36005260S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3600536330S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3600536330S#3600536330S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36006320S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36006320S#36006320S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3600637250S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3600637250S#3600637250S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36007400S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36007400S#36007400S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3610213126S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3610213126S#3610213126S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36103166S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36103166S#36103166S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36103205" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36103205#36103205?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36103205S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36103205S#36103205S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36103255" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36103255#36103255?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36103255S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36103255S#36103255S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36103305" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36103305#36103305?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36103305S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36103305S#36103305S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36103505" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36103505#36103505?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36103505S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36103505S#36103505S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36103605" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36103605#36103605?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36105266S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36105266S#36105266S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3610536336S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3610536336S#3610536336S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36106326S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36106326S#36106326S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3610637256S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3610637256S#3610637256S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36107406S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36107406S#36107406S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36503205" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36503205#36503205?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36503205S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36503205S#36503205S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36503255" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36503255#36503255?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36503255S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36503255S#36503255S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36503305" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36503305#36503305?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36503505" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36503505#36503505?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36503505S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36503505S#36503505S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36503605" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36503605#36503605?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671087" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3671087#3671087?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671093" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3671093#3671093?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671102" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3671102#3671102?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671108" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3671108#3671108?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671110" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3671110#3671110?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671128" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3671128#3671128?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671130" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3671130#3671130?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671135" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3671135#3671135?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="3671148" url="https://www.we-online.com/catalog/en/WE-SHC?sq=3671148#3671148?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36903205S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36903205S#36903205S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36903255S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36903255S#36903255S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36903305S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36903305S#36903305S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36905266S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36905266S#36905266S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36906326S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36906326S#36906326S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="36907406S" url="https://www.we-online.com/catalog/en/WE-SHC?sq=36907406S#36907406S?ah">
+                <About>Shielding Cabinets created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+        </Folder>
+        <Folder name="WE-FAS RFID">
+            <ProxyComponent name="314xx" url="https://www.we-online.com/catalog/en/WE-FAS-RFID?sq=314xx#314xx?ah">
+                <About>RFID Flexible Absorber Sheet created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="334xx" url="https://www.we-online.com/catalog/en/WE-FAS-RFID?sq=334xx#334xx?ah">
+                <About>RFID Flexible Absorber Sheet created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+        </Folder>
+        <Folder name="WE-FAS EMI">
+            <ProxyComponent name="304xx" url="https://www.we-online.com/catalog/en/WE-FAS?sq=304xx#304xx?ah">
+                <About>EMI Flexible Absorber Sheet created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="324xxx" url="https://www.we-online.com/catalog/en/WE-FAS?sq=324xxx#324xxx?ah">
+                <About>EMI Flexible Absorber Sheet created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="3441xx" url="https://www.we-online.com/catalog/en/WE-FAS?sq=3441xx#3441xx?ah">
+                <About>EMI Flexible Absorber Sheet created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+        </Folder>
+        <Folder name="WE-FSFS">
+            <ProxyComponent name="354xx" url="https://www.we-online.com/catalog/en/WE-FSFS?sq=354xx#354xx?ah">
+                <About>Flexible Sintered Ferrite Sheet created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="3641xx" url="https://www.we-online.com/catalog/en/WE-FSFS?sq=3641xx#3641xx?ah">
+                <About>Flexible Sintered Ferrite Sheet created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="364xx" url="https://www.we-online.com/catalog/en/WE-FSFS?sq=364xx#364xx?ah">
+                <About>Flexible Sintered Ferrite Sheet created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="374xx" url="https://www.we-online.com/catalog/en/WE-FSFS?sq=374xx#374xx?ah">
+                <About>Flexible Sintered Ferrite Sheet created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+        </Folder>
+    </Folder>
+    <Folder name="SMA Connectors">
+        <Folder name="WR-SMA Panel Flange">
+            <ProxyComponent name="60312412114517" url="https://www.we-online.com/catalog/en/COAX_SMA_CONNECTOR_PANEL_2-HOLE_AND_4-HOLE_FLANGE?sq=60312412114517#60312412114517?ah">
+                <About>Panel 2-Hole and 4-Hole Flange created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+        </Folder>
+        <Folder name="WR-SMA End Launch">
+            <ProxyComponent name="60312202114508" url="https://www.we-online.com/catalog/en/COAX_SMA_CONNECTOR_PCB_END_LAUNCH?sq=60312202114508#60312202114508?ah">
+                <About>PCB End Launch created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="60312202114509" url="https://www.we-online.com/catalog/en/COAX_SMA_CONNECTOR_PCB_END_LAUNCH?sq=60312202114509#60312202114509?ah">
+                <About>PCB End Launch created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="60312202114514" url="https://www.we-online.com/catalog/en/COAX_SMA_CONNECTOR_PCB_END_LAUNCH?sq=60312202114514#60312202114514?ah">
+                <About>PCB End Launch created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+        </Folder>
+        <Folder name="WR-SMA THT-THR-SMT">
+            <ProxyComponent name="60311002114501" url="https://www.we-online.com/catalog/en/COAX_SMA_CONNECTOR_PCB_THT_THR_SMT?sq=60311002114501#60311002114501?ah">
+                <About>PCB THT/THR/SMT created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+            <ProxyComponent name="60312002114503" url="https://www.we-online.com/catalog/en/COAX_SMA_CONNECTOR_PCB_THT_THR_SMT?sq=60312002114503#60312002114503?ah">
+                <About>PCB THT/THR/SMT created by HFSS Terminal version 2023R1</About>
+            </ProxyComponent>
+        </Folder>
+    </Folder>
+    <Folder name="Thermal Management">
+        <Folder name="WE-PCM">
+            <ProxyComponent name="WE-PCM" url="https://www.we-online.com/catalog/en/THERMAL_WE-PCM?sq=WE-PCM#WE-PCM?ah">
+                <About>Thermal Phase Changing Material created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+        </Folder>
+        <Folder name="WE-TGF">
+            <ProxyComponent name="WE-TGF" url="https://www.we-online.com/catalog/en/THERMAL_WE-TGF?sq=WE-TGF#WE-TGF?ah">
+                <About>Thermal Gap Filler Pad created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+            <ProxyComponent name="WE-TGF-glassfiber" url="https://www.we-online.com/catalog/en/THERMAL_WE-TGF?sq=WE-TGF-glassfiber#WE-TGF-glassfiber?ah">
+                <About>Thermal Gap Filler Pad created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+        </Folder>
+        <Folder name="WE-TGFG">
+            <ProxyComponent name="WE-TGFG" url="https://www.we-online.com/catalog/en/THERMAL_WE-TGFG?sq=WE-TGFG#WE-TGFG?ah">
+                <About>Graphite Foam Gasket created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+        </Folder>
+        <Folder name="WE-TGS">
+            <ProxyComponent name="WE-TGS" url="https://www.we-online.com/catalog/en/THERMAL_WE-TGS?sq=WE-TGS#WE-TGS?ah">
+                <About>Graphite Sheet created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+        </Folder>
+        <Folder name="WE-TINS">
+            <ProxyComponent name="WE-TINS" url="https://www.we-online.com/catalog/en/THERMAL_WE-TINS?sq=WE-TINS#WE-TINS?ah">
+                <About>Thermally Conductive Insulator Pad created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+        </Folder>
+        <Folder name="WE-TTT">
+            <ProxyComponent name="WE-TTT" url="https://www.we-online.com/catalog/en/THERMAL_WE-TTT?sq=WE-TTT#WE-TTT?ah">
+                <About>Thermal Transfer Tape created by HFSS Terminal version 2021R2</About>
+            </ProxyComponent>
+        </Folder>
+    </Folder>
+</ProxyComponents>
