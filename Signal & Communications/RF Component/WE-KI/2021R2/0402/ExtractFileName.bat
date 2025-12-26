@@ -1,0 +1,1 @@
+dir /b *.a3dcomp*>Name.txt
