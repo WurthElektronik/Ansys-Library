@@ -2,7 +2,7 @@
 =========
 ## Introduction
 Welcome to Würth Elektronik Ansys Library repository. <br>
-The libraries are created and maintained by Würth Elektronik EDA Team, for any questions and suggestions please feel free to contact EDA team by email: <libraries@we-online.com>
+The libraries are created and maintained by Würth Elektronik, for any questions and suggestions please feel free to contact us by email: <libraries@we-online.com>
 
 ## Library Component Coverage
 * Electromechanical Components <br>
