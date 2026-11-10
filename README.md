@@ -1,8 +1,9 @@
 `Ansys Libraries for Würth Elektronik Products`
 =========
 ## Introduction
-Welcome to Würth Elektronik Ansys Library repository. <br>
-The libraries are created and maintained by Würth Elektronik, for any questions and suggestions please feel free to contact EDA team by email: <libraries@we-online.com>
+Welcome to the Würth Elektronik Ansys Library repository. <br>
+The libraries are created and maintained by the Würth Elektronik.<br>
+For any questions or suggestions, please feel free to contact the team at:  <libraries@we-online.com>
 
 ## Library Component Coverage
 * RF Antennas <br>
